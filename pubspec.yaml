@@ -39,6 +39,10 @@ dependencies:
   get_it: ^7.4.0
   injectable: ^2.1.1
   reflectable: ^4.0.5
+  sales_app:
+    path: modules/sales/
+  purchase_app:
+    path: modules/purchase/
 
 dev_dependencies:
   flutter_test:

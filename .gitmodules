@@ -1,0 +1,6 @@
+[submodule "modules/sales"]
+	path = modules/sales
+	url = https://github.com/thanhtunguet/flutter_monorepo_sales_app
+[submodule "modules/purchase"]
+	path = modules/purchase
+	url = git@github.com:thanhtunguet/flutter_monorepo_purchase_app.git
